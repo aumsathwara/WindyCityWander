@@ -1,6 +1,6 @@
 # Windy City Wander
 
-This is a mobile application that helps users plan their trips by providing tools for managing dates, budget, accommodation, food, and activities.
+Windy City Wander is a mobile app designed to enhance travel experiences in Chicago. It provides personalized itinerary planning, curated recommendations, and seamless navigation. Built with React Native and integrated with Google Maps API, the app offers a user-friendly interface and efficient travel planning tools. Challenges included API integration and performance optimization, but the team is proud of creating a smooth and intuitive app. Future plans include expanding to other cities, improving the recommendation engine, and adding social features.
 
 ## Features
 
